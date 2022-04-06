@@ -1,0 +1,25 @@
+.green {
+    color:green;
+    background-color: skyblue;
+    text-align: center;
+}
+
+.border-purple{
+    border: 5px solid purple;
+}
+
+.img-size {
+    width: 200px;
+    height: 200px;
+}
+
+.margin-space{
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+
+.padding-space{
+    padding-top: 40px;
+    padding-left: 50px;
+}
